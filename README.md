@@ -9,9 +9,9 @@ Practical math and coding course for Georgia Tech EAS graduate students
 
 9/3: Plotting (Taka) - [Recording](https://bluejeans.com/s/F@gJYQw7WXu), [MATLAB live script](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/Class3_dataIO_plot.mlx), [Jupyter Notebook](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/Class3_dataIO_plot.ipynb)
 
-9/8: Linear algebra (Taka)
+9/8: Linear algebra (Taka) - Recording - [Slides](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/Class4_LinAlg.pptx)
 
-9/10: Interpolation/smoothing (Taka)
+9/10: Interpolation/smoothing (Taka) - Recording - [Slides](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/Class5_Interp.pptx)
 
 9/13: Statistics (Taka)
 
