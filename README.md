@@ -11,7 +11,7 @@ Practical math and coding course for Georgia Tech EAS graduate students
 
 9/8: Linear algebra (Taka) - [Recording](https://bluejeans.com/s/YaWbzw_M7KU) - [Slides](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/Class4_LinAlg.pptx) - MIT Open Course ([Strang](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/), [Others](https://mitmath.github.io/1806/))
 
-9/10: Interpolation/smoothing (Taka) - Recording - [Slides](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/Class5_Interp.pptx)
+9/10: Interpolation/smoothing (Taka) - [Recording](https://bluejeans.com/s/n8HMsJ3Aq4B) - [Slides](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/Class5_Interp.pptx)
 
 9/13: Statistics (Taka)
 
