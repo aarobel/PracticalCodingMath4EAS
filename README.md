@@ -15,7 +15,7 @@ Practical math and coding course for Georgia Tech EAS graduate students
 
 9/13: Statistics (Taka) - Recording - Slides - [Introduction to Error Analysis by J.R.Taylor](https://ia801307.us.archive.org/14/items/TaylorJ.R.IntroductionToErrorAnalysis2ed/Taylor%20J.R.%20Introduction%20to%20error%20analysis%202ed_text.pdf) - [Objective Analysis course notes by D. Hartmann at Univ Washington](https://atmos.uw.edu/~dennis/552_Notes_ftp.html) 
 
-9/15: Coordinate systems (Taka)
+9/15: Coordinate systems - Recording - Slides - [Introduction to Earth and Environmental Data Science by R. Abernathey](https://earth-env-data-science.github.io/intro) - [m_map by R. Pawlowicz](http://www.eoas.ubc.ca/~rich/map.html) - [Cartopy tutorial by P. Elson](https://github.com/SciTools/cartopy-tutorial)
 
 9/17: Derivatives (Alex)
 
