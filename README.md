@@ -19,7 +19,7 @@ Practical math and coding course for Georgia Tech EAS graduate students
 
 9/15: Coordinate systems (Taka) - [Recording](https://bluejeans.com/s/QeUFAOi@G2K) - [Slides](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/Class7_Coordinates.pptx) - [Introduction to Earth and Environmental Data Science by R. Abernathey](https://earth-env-data-science.github.io/intro) - (MATLAB) [m_map by R. Pawlowicz](http://www.eoas.ubc.ca/~rich/map.html), [Code MATLAB live script](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/Class7.mlx) - (python) [Cartopy tutorial by P. Elson](https://github.com/SciTools/cartopy-tutorial), [Code Jupyter Notebook](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/Class7.ipynb)
 
-9/17: Derivatives (Alex)
+9/17: Derivatives (Alex) - Recording - [Notes](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/Derivative%20review.pdf) - [MATLAB Live Script](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/Derivative_MATLAB.mlx) - [Jupyter Notebook](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/Derivative_notebook.ipynb)
 
 9/20: Integrals (Alex)
 
