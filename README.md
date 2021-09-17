@@ -1,5 +1,6 @@
 # PracticalCodingMath4EAS
 Practical math and coding course for Georgia Tech EAS graduate students
+
 (Please note that recording links are only accessible by GT affiliates)
 
 2021 sessions, records and code:
