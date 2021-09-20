@@ -21,7 +21,7 @@ Practical math and coding course for Georgia Tech EAS graduate students
 
 9/17: Derivatives (Alex) - [Recording](https://bluejeans.com/s/u1ZPMdPo2pm) - [Notes](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/Derivative%20review.pdf) - [MATLAB Live Script](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/Derivative_MATLAB.mlx) - [Jupyter Notebook](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/Derivative_notebook.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/aarobel/PracticalCodingMath4EAS/8bdc4837544c33d162f7cc7b10b1b49cfcfb8bcf?urlpath=lab%2Ftree%2FDerivative_notebook.ipynb). 
 
-9/20: Integrals (Alex)
+9/20: Integrals (Alex) - Recording - [Notes](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/Numerical%20Integration.pdf) - [MATLAB Live Script](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/Integral_MATLAB.mlx) - [Jupyter Notebook](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/Integral_notebook.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/aarobel/PracticalCodingMath4EAS/main?filepath=Integral_notebook.ipynb)
 
 9/22: ODEs (Alex)
 
