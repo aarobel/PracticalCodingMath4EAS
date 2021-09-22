@@ -23,7 +23,7 @@ Practical math and coding course for Georgia Tech EAS graduate students
 
 9/20: Integrals (Alex) - [Recording](https://bluejeans.com/s/zux6clxpgTq) - [Notes](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/Numerical%20Integration.pdf) - [MATLAB Live Script](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/Integral_MATLAB.mlx) - [Jupyter Notebook](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/Integral_notebook.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/aarobel/PracticalCodingMath4EAS/main?filepath=Integral_notebook.ipynb)
 
-9/22: ODEs (Alex) - Recording - [Notes](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/ODE%20Review.pdf) - [MATLAB Live Script](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/ODE_MATLAB.mlx) - [Jupyter Notebook](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/ODE_notebook.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/aarobel/PracticalCodingMath4EAS/main?filepath=ODE_notebook.ipynb)
+9/22: ODEs (Alex) - [Recording](https://bluejeans.com/s/xvfdV5iRQST) - [Notes](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/ODE%20Review.pdf) - [MATLAB Live Script](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/ODE_MATLAB.mlx) - [Jupyter Notebook](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/ODE_notebook.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/aarobel/PracticalCodingMath4EAS/main?filepath=ODE_notebook.ipynb)
 
 9/24: PDEs (Alex)
 
