@@ -25,6 +25,6 @@ Practical math and coding course for Georgia Tech EAS graduate students
 
 9/22: ODEs (Alex) - [Recording](https://bluejeans.com/s/xvfdV5iRQST) - [Notes](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/ODE%20Review.pdf) - [MATLAB Live Script](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/ODE_MATLAB.mlx) - [Jupyter Notebook](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/ODE_notebook.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/aarobel/PracticalCodingMath4EAS/main?filepath=ODE_notebook.ipynb)
 
-9/24: PDEs (Alex)
+9/24: PDEs (Alex) - Recording - [Notes](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/PDE%20Review.pdf) - [MATLAB script](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/PDE_MATLAB_deas.m) - [Jupyter Notebook](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/PDE_notebook.ipynb)
 
 9/27: Fourier spectra (Taka)
