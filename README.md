@@ -1,8 +1,6 @@
 # PracticalCodingMath4EAS
 Practical math and coding course for Georgia Tech EAS graduate students
 
-(Please note that recording links are only accessible by GT affiliates)
-
 2022 sessions, records and code:
 
 8/22: MATLAB Basics (A. Robel) - [Code (MATLAB live script)](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/MATLAB_basics.mlx). 
