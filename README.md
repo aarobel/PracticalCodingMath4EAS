@@ -1,5 +1,6 @@
 # PracticalCodingMath4EAS
 Practical math and coding course for Georgia Tech EAS graduate students
+
 [Zoom link](https://gatech.zoom.us/j/93274070063?pwd=SXlaL3duZzRLTG0wZk9Xa0Y1NGNDZz09) (passcode on Canvas)
 
 2022 sessions, records and code:
