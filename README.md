@@ -5,7 +5,7 @@ Practical math and coding course for Georgia Tech EAS graduate students
 
 2022 sessions, records and code:
 
-8/22: MATLAB Basics (A. Robel) - [Code (MATLAB live script)](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/MATLAB_basics.mlx). 
+8/22: MATLAB Basics (A. Robel) - [Recording](https://mediaspace.gatech.edu/media/MATLAB+Basics/1_smdu1v1b) - [Code (MATLAB live script)](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/MATLAB_basics.mlx). 
 
 8/24:  Python Basics (A. Robel) - [Code (Jupyter Notebook)](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/Python_basics.ipynb), [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/aarobel/PracticalCodingMath4EAS/main?filepath=Python_basics.ipynb). 
 
