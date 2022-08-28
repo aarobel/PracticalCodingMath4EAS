@@ -11,7 +11,7 @@ Practical math and coding course for Georgia Tech EAS graduate students
 
 8/26: Plotting (A. Robel) - [Recording](https://mediaspace.gatech.edu/media/Basic+Plotting+and+I+O+in+MATLAB+Python/1_5naczdzi) - [MATLAB live script](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/Class3_dataIO_plot.mlx), [Jupyter Notebook](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/Class3_dataIO_plot.ipynb)
 
-8/29: Geographic Plotting Pt. 1 (A. Newman) - 
+8/29: Geographic Plotting Pt. 1 (A. Newman) - [Environment File](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/pygmt_environment.yml)
 
 8/31: Geographic Plotting Pt. 2 (A. Newman) - 
 
