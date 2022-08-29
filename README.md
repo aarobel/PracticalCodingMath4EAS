@@ -11,7 +11,7 @@ Practical math and coding course for Georgia Tech EAS graduate students
 
 8/26: Plotting (A. Robel) - [Recording](https://mediaspace.gatech.edu/media/Basic+Plotting+and+I+O+in+MATLAB+Python/1_5naczdzi) - [MATLAB live script](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/Class3_dataIO_plot.mlx), [Jupyter Notebook](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/Class3_dataIO_plot.ipynb)
 
-8/29: Geographic Plotting Pt. 1 (A. Newman) - [Environment File](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/pygmt_environment.yml)
+8/29: Geographic Plotting Pt. 1 (A. Newman) - [Recording](https://mediaspace.gatech.edu/media/Geographic+Coordinates+%26+Plotting+with+pyGMT+%28A.+Newman%29/1_qedqgzp4) [Slides](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/Class7_Coordinates-Taka2021-AndyUpdate2022.pptx) - [pyGMT Repo (A. Newman)](https://github.com/avnewman/pyGMT-Tutorial) - [Mapping Projections Tutorial](https://github.com/avnewman/pyGMT-Tutorial/blob/main/Mapping_projections.ipynb) - [Environment File](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/pygmt_environment.yml)
 
 8/31: Geographic Plotting Pt. 2 (A. Newman) - 
 
