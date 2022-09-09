@@ -13,12 +13,11 @@ Practical math and coding course for Georgia Tech EAS graduate students
 
 8/29-31: Geographic Plotting (A. Newman) - [Recording Pt. 1](https://mediaspace.gatech.edu/media/Geographic+Coordinates+%26+Plotting+with+pyGMT+%28A.+Newman%29/1_qedqgzp4) - [Recording Pt. 1](https://mediaspace.gatech.edu/media/Geographic+Coordinates+%26+Plotting+with+pyGMT+%28A.+Newman%29++Pt.+2/1_hyg47i9o) - [Slides](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/Class7_Coordinates-Taka2021-AndyUpdate2022.pptx) - [pyGMT Repo (A. Newman)](https://github.com/avnewman/pyGMT-Tutorial) - [Mapping Projections Tutorial](https://github.com/avnewman/pyGMT-Tutorial/blob/main/Mapping_projections.ipynb) - [Environment File](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/pygmt_environment.yml)
 
-
 9/2: GIS (A. Tarzona) - NOTE: In-person session in L1110 - [Recording](https://mediaspace.gatech.edu/media/GIS+Basics+%28ArcMAP%29/1_o9w0tm2g) - [Slides](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/GIS%20Demo_AT_09022022.pdf) - [Data Files](https://www.dropbox.com/s/wrvflwyl5scskhl/Raw%20Data.zip?dl=0)
 
 9/7: Adobe Illustrator (K. Lang) - NOTE: In-person session in L1110 - [Recording](https://mediaspace.gatech.edu/media/Adobe+Illustrator+Basics/1_3y3ozxis) - [Slides](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/20220907_adobe_illustrator.pdf) - [Demo File](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/lang_2020_figure_2.ai)
 
-9/9: Linear algebra (T. Ito) - [Slides](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/Class4_LinAlg.pptx) - MIT Open Course ([Strang](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/), [Others](https://mitmath.github.io/1806/))
+9/9: Linear algebra (T. Ito) - [Recording](https://mediaspace.gatech.edu/media/Linear+Algebra/1_s2tf6iv1) - [Slides](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/Class4_LinAlg.pptx) - MIT Open Course ([Strang](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/), [Others](https://mitmath.github.io/1806/))
 
 9/12: Interpolation/smoothing (T. Ito) - [Slides](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/Class5_Interp.pptx)
 
