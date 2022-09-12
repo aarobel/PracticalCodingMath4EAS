@@ -19,7 +19,7 @@ Practical math and coding course for Georgia Tech EAS graduate students
 
 9/9: Linear algebra (T. Ito) - [Recording](https://mediaspace.gatech.edu/media/Linear+Algebra/1_s2tf6iv1) - [Slides](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/Class4_LinAlg.pptx) - MIT Open Course ([Strang](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/), [Others](https://mitmath.github.io/1806/))
 
-9/12: Interpolation/smoothing (T. Ito) - [Slides](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/Class5_Interp.pptx)
+9/12: Interpolation/smoothing (T. Ito) - [Recording](https://mediaspace.gatech.edu/media/Smoothing+Interpolation/1_it44c62n) - [Slides](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/Class5_Interp.pptx)
 
 9/14: Statistics (T. Ito) - [Slides](https://github.com/eas2655-taka/PracticalCodingMath4EAS/blob/main/Class6_Stats.pptx) - [Introduction to Error Analysis by J.R.Taylor](https://ia801307.us.archive.org/14/items/TaylorJ.R.IntroductionToErrorAnalysis2ed/Taylor%20J.R.%20Introduction%20to%20error%20analysis%202ed_text.pdf) - [Objective Analysis course notes by D. Hartmann at Univ Washington](https://atmos.uw.edu/~dennis/552_Notes_ftp.html) 
 
