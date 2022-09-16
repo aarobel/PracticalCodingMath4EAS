@@ -23,7 +23,7 @@ Practical math and coding course for Georgia Tech EAS graduate students
 
 9/14: Statistics (T. Ito) - [Recording](https://mediaspace.gatech.edu/media/Statistics+Basics/1_t46t28ob) - [Slides](https://github.com/eas2655-taka/PracticalCodingMath4EAS/blob/main/Class6_Stats.pptx) - [Introduction to Error Analysis by J.R.Taylor](https://ia801307.us.archive.org/14/items/TaylorJ.R.IntroductionToErrorAnalysis2ed/Taylor%20J.R.%20Introduction%20to%20error%20analysis%202ed_text.pdf) - [Objective Analysis course notes by D. Hartmann at Univ Washington](https://atmos.uw.edu/~dennis/552_Notes_ftp.html) 
 
-9/16: Fourier spectra (T. Ito) - [Notes](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/Class12-Fourier.pptx) - [MATLAB script](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/Class12_Fourier.mlx)
+9/16: Fourier spectra (T. Ito) - [Recording](https://mediaspace.gatech.edu/media/Fourier+Analysis/1_bnus93gh) - [Notes](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/Class12-Fourier.pptx) - [MATLAB script](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/Class12_Fourier.mlx)
 
 9/19: Derivatives (A. Robel) - [Notes](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/Derivative%20review.pdf) - [MATLAB Live Script](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/Derivative_MATLAB.mlx) - [Jupyter Notebook](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/Derivative_notebook.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/aarobel/PracticalCodingMath4EAS/8bdc4837544c33d162f7cc7b10b1b49cfcfb8bcf?urlpath=lab%2Ftree%2FDerivative_notebook.ipynb). 
 
