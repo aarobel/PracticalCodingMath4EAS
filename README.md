@@ -18,12 +18,7 @@ Practical math and coding course for Georgia Tech EAS graduate students (Fall 20
 9/8: Github and Coding Practice (A. Robel)
 TBM
 
-9/15: Geographic Plotting (A. Newman):  
-[Recording](XX)   
-[Slides](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/Class7_Coordinates-Taka2021-AndyUpdate2022.pptx)  
-[pyGMT Repo (A. Newman)](https://github.com/avnewman/pyGMT-Tutorial)  
-[Mapping Projections Tutorial](https://github.com/avnewman/pyGMT-Tutorial/blob/main/Mapping_projections.ipynb)  
-[Environment File](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/pygmt_environment.yml)  
+9/15: 
 
 9/22: Linear algebra/Interpolation/Smoothing (T. Ito):  
 [Recording](XX)  
@@ -61,16 +56,24 @@ Need to expand
 [PDE Jupyter Notebook](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/PDE_notebook.ipynb)  
 Need to expand
 
-10/27
+10/27: Machine Learning(?) 
 
-11/3
+11/3: ?
 
-11/10:
+11/10: Geographic Plotting (A. Newman):  
+[Recording](XX)   
+[Slides](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/Class7_Coordinates-Taka2021-AndyUpdate2022.pptx)  
+[pyGMT Repo (A. Newman)](https://github.com/avnewman/pyGMT-Tutorial)  
+[Mapping Projections Tutorial](https://github.com/avnewman/pyGMT-Tutorial/blob/main/Mapping_projections.ipynb)  
+[Environment File](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/pygmt_environment.yml)  
 
-11/17: 
+11/17: GIS (A. Tarzona)  
+[Recording](XX)  
+[Slides](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/GIS%20Demo_AT_09022022.pdf)  
+[Data Files](https://www.dropbox.com/s/wrvflwyl5scskhl/Raw%20Data.zip?dl=0)
 
-12/1:
+12/1: Adobe Illustrator (K. Lang)  
+[Recording](XX)  
+[Slides](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/20220907_adobe_illustrator.pdf)  
+[Demo File](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/lang_2020_figure_2.ai)
 
-GIS (A. Tarzona) - NOTE: In-person session in L1110 - [Recording](https://mediaspace.gatech.edu/media/GIS+Basics+%28ArcMAP%29/1_o9w0tm2g) - [Slides](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/GIS%20Demo_AT_09022022.pdf) - [Data Files](https://www.dropbox.com/s/wrvflwyl5scskhl/Raw%20Data.zip?dl=0)
-
-Adobe Illustrator (K. Lang) - NOTE: In-person session in L1110 - [Recording](https://mediaspace.gatech.edu/media/Adobe+Illustrator+Basics/1_3y3ozxis) - [Slides](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/20220907_adobe_illustrator.pdf) - [Demo File](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/lang_2020_figure_2.ai)
