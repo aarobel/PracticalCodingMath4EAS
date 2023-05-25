@@ -67,13 +67,12 @@ Need to expand
 [Mapping Projections Tutorial](https://github.com/avnewman/pyGMT-Tutorial/blob/main/Mapping_projections.ipynb)  
 [Environment File](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/pygmt_environment.yml)  
 
-11/17: GIS (A. Tarzona)  
-[Recording](XX)  
-[Slides](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/GIS%20Demo_AT_09022022.pdf)  
-[Data Files](https://www.dropbox.com/s/wrvflwyl5scskhl/Raw%20Data.zip?dl=0)
-
-12/1: Adobe Illustrator (K. Lang)  
+11/17: Adobe Illustrator (K. Lang)  
 [Recording](XX)  
 [Slides](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/20220907_adobe_illustrator.pdf)  
 [Demo File](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/lang_2020_figure_2.ai)
 
+12/1: GIS (A. Tarzona)  
+[Recording](XX)  
+[Slides](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/GIS%20Demo_AT_09022022.pdf)  
+[Data Files](https://www.dropbox.com/s/wrvflwyl5scskhl/Raw%20Data.zip?dl=0)
