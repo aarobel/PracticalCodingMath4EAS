@@ -10,11 +10,10 @@ Practical math and coding course for Georgia Tech EAS graduate students (Fall 20
 [Code (MATLAB live script)](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/MATLAB_basics.mlx)  
 [Code (Jupyter Notebook)](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/Python_basics.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/aarobel/PracticalCodingMath4EAS/main?filepath=Python_basics.ipynb)   
 
-9/1: Plotting (A. Robel):  
+9/1: Plotting and Data Formats (A. Robel):  
 [Recording](XX)  
 [MATLAB live script](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/Class3_dataIO_plot.mlx)  
 [Jupyter Notebook](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/Class3_dataIO_plot.ipynb)  
-Need to expand
 
 9/8: Github and Coding Practice (A. Robel)
 TBM
