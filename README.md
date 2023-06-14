@@ -58,7 +58,7 @@ Need to expand
 
 10/27: ?
 
-11/3: ?
+11/3: Google Earth Engine(?)
 
 11/10: Geographic Plotting (A. Newman):  
 [Recording](XX)   
