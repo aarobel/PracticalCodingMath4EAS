@@ -10,21 +10,24 @@ Practical math and coding course for Georgia Tech EAS graduate students (Fall 20
 [Code (MATLAB live script)](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/MATLAB_basics.mlx)  
 [Code (Jupyter Notebook)](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/Python_basics.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/aarobel/PracticalCodingMath4EAS/main?filepath=Python_basics.ipynb)   
 
-9/1: Plotting and Data Formats (A. Robel):  
+9/1: Plotting and Basic Mapping (A. Robel):  
 [Recording](XX)  
 [MATLAB live script](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/Class3_dataIO_plot.mlx)  
 [Jupyter Notebook](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/Class3_dataIO_plot.ipynb)  
 
-9/8: Github and Coding Practice (A. Robel)
+9/8: Data Formats/Pandas/Geopandas/Xarray (A. Robel):  
 TBM
 
-9/15: Linear algebra/Interpolation/Smoothing (T. Ito):  
+9/15: Github and Coding Practice (A. Robel)
+TBM
+
+9/22: Linear algebra/Interpolation/Smoothing (T. Ito):  
 [Recording](XX)  
 [Linear Algebra Slides](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/Class4_LinAlg.pptx)  
 [Interpolation and smoothing slides](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/Class5_Interp.pptx)  
 MIT Linear Algebra Open Course ([Strang](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)  
 
-9/22: Statistics/Fourier spectra (T. Ito):  
+9/29: Statistics/Fourier spectra (T. Ito):  
 [Recording](XX)  
 [Stats Slides](https://github.com/eas2655-taka/PracticalCodingMath4EAS/blob/main/Class6_Stats.pptx)  
 [Fourier Spectra Notes](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/Class12-Fourier.pptx)  
@@ -32,7 +35,7 @@ MIT Linear Algebra Open Course ([Strang](https://ocw.mit.edu/courses/mathematics
 [Introduction to Error Analysis by J.R.Taylor](https://ia801307.us.archive.org/14/items/TaylorJ.R.IntroductionToErrorAnalysis2ed/Taylor%20J.R.%20Introduction%20to%20error%20analysis%202ed_text.pdf)  
 [Objective Analysis course notes by D. Hartmann at Univ Washington](https://atmos.uw.edu/~dennis/552_Notes_ftp.html)  
 
-9/29: Derivatives and Integrals (A. Robel):  
+10/6: Derivatives and Integrals (A. Robel):  
 [Recording](XX)  
 [Derivative Notes](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/Derivative%20review.pdf)  
 [Derivative MATLAB Live Script](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/Derivative_MATLAB.mlx)  
@@ -41,24 +44,22 @@ MIT Linear Algebra Open Course ([Strang](https://ocw.mit.edu/courses/mathematics
 [Integral MATLAB Live Script](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/Integral_MATLAB.mlx)  
 [Integral Jupyter Notebook](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/Integral_notebook.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/aarobel/PracticalCodingMath4EAS/main?filepath=Integral_notebook.ipynb)  
 
-10/6: Ordinary Differential Equations/Box Models/Dynamical Systems (A. Robel):  
+10/13: Ordinary Differential Equations/Box Models/Dynamical Systems (A. Robel):  
 [Recording](XX)  
 [ODE Notes](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/ODE%20Review.pdf)  
 [ODE MATLAB Live Script](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/ODE_MATLAB.mlx)  
 [ODE Jupyter Notebook](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/ODE_notebook.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/aarobel/PracticalCodingMath4EAS/main?filepath=ODE_notebook.ipynb)  
 Need to expand
 
-10/13: Partial Differential Equations/Advection/Diffusion/Waves (A. Robel):  
+10/20: Partial Differential Equations/Advection/Diffusion/Waves (A. Robel):  
 [PDE Notes](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/PDE%20Review.pdf)  
 [PDE MATLAB script](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/PDE_MATLAB_deas.m)  
 [PDE Jupyter Notebook](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/PDE_notebook.ipynb)  
 Need to expand
 
-10/20: Machine Learning(?) 
+10/27: Machine Learning (A. Robel):
 
-10/27: ?
-
-11/3: Google Earth Engine(?)
+11/3: ?
 
 11/10: Geographic Plotting (A. Newman):  
 [Recording](XX)   
