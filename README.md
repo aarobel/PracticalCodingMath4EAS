@@ -57,9 +57,9 @@ Need to expand
 [PDE Jupyter Notebook](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/PDE_notebook.ipynb)  
 Need to expand
 
-10/27: Machine Learning (A. Robel):
+10/27: Statistical Learning/Modeling (M. Ranganathan): 
 
-11/3: ?
+11/3: Machine Learning (A. Robel):
 
 11/10: Geographic Plotting (A. Newman):  
 [Recording](XX)   
