@@ -17,7 +17,7 @@ Practical math and coding course for Georgia Tech EAS graduate students (Fall 20
 
 9/8: Data Formats/Pandas/Geopandas/Xarray (A. Robel):  
 TBM
-[Project Pythia]([https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/Class3_dataIO_plot.ipynb](https://foundations.projectpythia.org/landing-page.html))   
+[Project Pythia](https://foundations.projectpythia.org/landing-page.html)   
 
 9/15: Github and Coding Practice (A. Robel)
 TBM
