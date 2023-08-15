@@ -11,16 +11,16 @@ Practical math and coding course for Georgia Tech EAS graduate students (Fall 20
 [Code (Jupyter Notebook)](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/Python_basics.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/aarobel/PracticalCodingMath4EAS/main?filepath=Python_basics.ipynb)   
 [Optional PS](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/CodingBasics_OptPS.pdf)
 
-9/1: Plotting and Basic Mapping (A. Robel):  
+9/1: Basic Plotting in MATLAB and Python (A. Robel):  
 [Recording](XX)  
 [MATLAB live script](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/Class3_dataIO_plot.mlx)  
 [Jupyter Notebook](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/Class3_dataIO_plot.ipynb)  
 
-9/8: Data Formats/Pandas/Geopandas/Xarray (A. Robel):  
+9/8: Data Formats/Pandas/Geopandas/Xarray/Github (A. Robel):  
 TBM
 [Project Pythia](https://foundations.projectpythia.org/landing-page.html)   
 
-9/15: Github and Coding Practice (A. Robel)
+9/15: Basic Mapping with MATLAB and Cartopy (A. Robel)
 TBM
 
 9/22: Linear algebra/Interpolation/Smoothing (T. Ito):  
