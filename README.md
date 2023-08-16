@@ -18,8 +18,8 @@ Practical math and coding course for Georgia Tech EAS graduate students (Fall 20
 [Optional PS](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/PlottingBasics_OptPS.pdf)
 
 9/8: Data Formats/Pandas/Geopandas/Xarray/Github (A. Robel):  
-[MATLAB live script](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/FileFormats.mlx)
-[Jupyter Notebook]()
+[MATLAB live script](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/FileFormats.mlx)  
+[Jupyter Notebook]()  
 [Project Pythia](https://foundations.projectpythia.org/landing-page.html)   
 
 9/15: Basic Mapping with MATLAB and Cartopy (A. Robel)
