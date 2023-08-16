@@ -63,7 +63,7 @@ Need to expand
 
 11/3: Machine Learning (A. Robel):
 
-11/10: Geographic Plotting (A. Newman):  
+11/10: Advanced Geographic Plotting with GMT (A. Newman):  
 [Recording](XX)   
 [Slides](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/Class7_Coordinates-Taka2021-AndyUpdate2022.pptx)  
 [pyGMT Repo (A. Newman)](https://github.com/avnewman/pyGMT-Tutorial)  
