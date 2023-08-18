@@ -39,6 +39,7 @@ MIT Linear Algebra Open Course ([Strang](https://ocw.mit.edu/courses/mathematics
 [Stats Slides](https://github.com/eas2655-taka/PracticalCodingMath4EAS/blob/main/Class6_Stats.pptx)  
 [Fourier Spectra Notes](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/Class12-Fourier.pptx)  
 [Fourier Spectra MATLAB script](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/Class12_Fourier.mlx)  
+Resources:  
 [Introduction to Error Analysis by J.R.Taylor](https://ia801307.us.archive.org/14/items/TaylorJ.R.IntroductionToErrorAnalysis2ed/Taylor%20J.R.%20Introduction%20to%20error%20analysis%202ed_text.pdf)  
 [Objective Analysis course notes by D. Hartmann at Univ Washington](https://atmos.uw.edu/~dennis/552_Notes_ftp.html)  
 
