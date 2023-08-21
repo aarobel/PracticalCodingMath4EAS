@@ -17,7 +17,7 @@ Practical math and coding course for Georgia Tech EAS graduate students (Fall 20
 [Jupyter Notebook](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/Class3_dataIO_plot.ipynb)  
 [Optional PS](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/PlottingBasics_OptPS.pdf)
 
-9/8: Data Formats/Pandas/Geopandas/Xarray/Github (A. Robel):  
+9/8: Data Formats/Pandas/Xarray (A. Robel):  
 [MATLAB live script](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/FileFormats.mlx)  
 [Jupyter Notebook](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/FileFormats_xarray_pandas.ipynb)  
 [Optional PS](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/FileFormats_OptPS.pdf)  
