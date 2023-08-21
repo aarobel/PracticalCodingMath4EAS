@@ -25,7 +25,7 @@ Resources:
 [Project Pythia](https://foundations.projectpythia.org/landing-page.html)   
 [Earth and Environmental Data Science Course](https://earth-env-data-science.github.io/intro.html)
 
-9/15: Basic Mapping with MATLAB and Cartopy (A. Robel)
+9/15: Basic Mapping with MATLAB and Cartopy and Version Control with GitHub(A. Robel)
 TBM
 
 9/22: Linear algebra/Interpolation/Smoothing (T. Ito):  
