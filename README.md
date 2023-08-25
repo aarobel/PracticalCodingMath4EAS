@@ -13,8 +13,8 @@ Practical math and coding course for Georgia Tech EAS graduate students (Fall 20
 
 9/1: Basic Plotting in MATLAB and Python (A. Robel):  
 [Recording](XX)  
-[MATLAB live script](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/Class3_dataIO_plot.mlx)  
-[Jupyter Notebook](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/Class3_dataIO_plot.ipynb)  
+[MATLAB live script](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/MATLAB_plotting.mlx)  
+[Jupyter Notebook](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/Python_plotting.ipynb)  
 [Optional PS](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/PlottingBasics_OptPS.pdf)
 
 9/8: Data Formats/Pandas/Xarray (A. Robel):  
