@@ -3,18 +3,19 @@ Practical math and coding course for Georgia Tech EAS graduate students (Fall 20
 2023 sessions, records and code:
 
 8/25: MATLAB and Python Coding Basics (A. Robel):  
-[Recording](https://mediaspace.gatech.edu/edit/1_su0fg094)  
+[Recording]([https://mediaspace.gatech.edu/edit/1_su0fg094](https://mediaspace.gatech.edu/media/Practical%20Coding%20and%20Math%20for%20EAS%20-%20Coding%20Basics/1_su0fg094))  
 [MATLAB live script](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/MATLAB_basics.mlx)  
 [Jupyter Notebook](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/Python_basics.ipynb)  
 [Optional PS](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/CodingBasics_OptPS.pdf)
 
 9/1: Basic Plotting in MATLAB and Python (A. Robel):  
-[Recording (No sounds for first 30 minutes)](https://mediaspace.gatech.edu/edit/1_5680any5)  
+[Recording (No sounds for first 30 minutes)]([https://mediaspace.gatech.edu/edit/1_5680any5](https://mediaspace.gatech.edu/media/Practical%20Coding%20and%20Math%20for%20EAS%20-%20Plotting%20Basics/1_5680any5))  
 [MATLAB live script](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/MATLAB_plotting.mlx)  
 [Jupyter Notebook](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/Python_plotting.ipynb)  
 [Optional PS](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/PlottingBasics_OptPS.pdf)
 
 9/8: Data Formats/Pandas/Xarray (A. Robel):  
+[Recording](https://mediaspace.gatech.edu/media/Practical+Coding+and+Math+for+EAS/1_plgvlmjx)
 [MATLAB live script](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/FileFormats.mlx)  
 [Jupyter Notebook](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/FileFormats_xarray_pandas.ipynb)  
 [Optional PS](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/FileFormats_OptPS.pdf)  
