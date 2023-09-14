@@ -1,0 +1,79 @@
+\documentclass{article}
+\usepackage[T1]{fontenc}
+\usepackage{amsmath,amssymb,epsfig,wrapfig,xfrac}
+\usepackage{natbib}
+\usepackage{lineno,chapterbib}
+%\usepackage[pdftex]{graphicx}
+\graphicspath{{./}}
+\oddsidemargin=0.1in
+\bibliographystyle{apalike}
+\usepackage[pdftex,bookmarks,colorlinks=true,plainpages=false, 
+citecolor=black,urlcolor=blue,filecolor=blue]{hyperref} % usage: \href{URL}{text}
+\newcommand*\samethanks[1][\value{footnote}]{\footnotemark[#1]}
+\newcommand{\mytilde}{\raise.17ex\hbox{$\scriptstyle\mathtt{\sim}$}}
+\newcommand{\pd}[2]{\frac{\partial {#1}}{\partial {#2}}}
+\newcommand{\od}[2]{\frac{\mathrm{d} {#1}}{\mathrm{d} {#2}}}
+\newcommand{\pdl}[2]{{\partial {#1}}/{\partial {#2}}}
+\newcommand{\beq}{\begin{equation*}}
+\newcommand{\eeq}{\end{equation*}}
+\newcommand{\be}{\begin{enumerate}} 
+\newcommand{\ee}{\end{enumerate}}
+
+\setlength{\topmargin}{-0.5in}
+
+\setlength{\textwidth}{6.5in}
+\setlength{\textheight}{9.1in}
+\title{\vspace{-1in} Optional PS: Coding Basics}
+\begin{document}
+
+\maketitle
+
+\be
+ \item The sum $\mathcal{S}_k$ is given by
+\beq
+\mathcal{S}_k= 
+\sum_{n=0}^k \frac{(-1)^n}{(2n+1)^7}\qquad .
+\eeq
+
+\be
+\item Write a function that calculates the value of $\mathcal{S}_k$ (as a function of k). Output $S_k$ for $k=10$, $k=100$, $k=1000$ in a for loop. 
+\item Write a new function that calculates the value of $\mathcal{S}_k$ (as a function of k) with only vector operations (i.e. vectorize the code from part a). Output $S_k$ for $k=10$, $k=100$, $k=1000$. 
+\item Add a capability to your script to write both, the index $k$ and the value of $S_k$ in a comma-separated file \emph{drl.csv}.
+\item One can show that
+\beq
+\mathcal{S}_\infty= 
+\sum_{n=0}^\infty\frac{(-1)^n}{(2n+1)^7}=\frac{61\pi^7}{184320}\qquad .
+\eeq
+Write a script with a while loop to determine the \emph{smallest} value of $k$ which fulfills 
+\beq
+\left|\mathcal{S}_k-\mathcal{S}_\infty \right|< 10^{-4}\qquad.
+\eeq
+\ee
+\item Write a script that solves the following linear system of equations using matrix operations:
+\begin{eqnarray*}
+2x+y-4z & = & -5 \\
+3x-y+9z &=& 5\\
+5x+2y + 2z &=& -1\quad .
+\end{eqnarray*}
+Give the solution $(x,y,z)$.
+
+\item Consider the 3-D surface
+\beq
+z(x,y) = \sin \left(\pi x + 2 \pi y \right) + e^{-5 y^2}
+\eeq
+
+\be
+\item Create a mesh for $x$ and $y$ over the intervals $x = [0,1]$ and  $y = [0,3]$ with 101 grid points in $x$ and 301 grid points in $y$.
+\item Create a new array calculating values of $z$ on this mesh.
+\item Find every mesh point where $0.5<z(x,y)<1$ within the domain $x = [0,1]$ and $y = [0,1]$ on the mesh created in part (a).
+\item Calculate the maximum value of a new function $w(x,y)$ within the part of the mesh where 0.5<z(x,y)<1, where
+\beq
+w(x,y) = \cos \left(\pi x + \pi y \right) + e^{-2 y^2}
+\eeq
+
+\ee
+
+\ee 
+\end{document}
+\end{enumerate}
+\end{document}

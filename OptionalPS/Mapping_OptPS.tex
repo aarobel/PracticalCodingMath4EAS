@@ -1,0 +1,63 @@
+\documentclass{article}
+\usepackage[T1]{fontenc}
+\usepackage{amsmath,amssymb,epsfig,wrapfig,xfrac}
+\usepackage{natbib}
+\usepackage{lineno,chapterbib}
+%\usepackage[pdftex]{graphicx}
+\graphicspath{{./}}
+\oddsidemargin=0.1in
+\bibliographystyle{apalike}
+\usepackage[pdftex,bookmarks,colorlinks=true,plainpages=false, 
+citecolor=black,urlcolor=blue,filecolor=blue]{hyperref} % usage: \href{URL}{text}
+\newcommand*\samethanks[1][\value{footnote}]{\footnotemark[#1]}
+\newcommand{\mytilde}{\raise.17ex\hbox{$\scriptstyle\mathtt{\sim}$}}
+\newcommand{\pd}[2]{\frac{\partial {#1}}{\partial {#2}}}
+\newcommand{\od}[2]{\frac{\mathrm{d} {#1}}{\mathrm{d} {#2}}}
+\newcommand{\pdl}[2]{{\partial {#1}}/{\partial {#2}}}
+\newcommand{\beq}{\begin{equation*}}
+\newcommand{\eeq}{\end{equation*}}
+\newcommand{\be}{\begin{enumerate}} 
+\newcommand{\ee}{\end{enumerate}}
+
+\setlength{\topmargin}{-0.5in}
+
+\setlength{\textwidth}{6.5in}
+\setlength{\textheight}{9.1in}
+\title{\vspace{-1in} Optional PS: Mapping}
+\begin{document}
+
+\maketitle
+\be 
+\item Download \texttt{sst.ltm.nc} from class GitHub into the same folder where you plan to write code. This is the long-term mean of SST from observations interpolated onto a rectangular grid.
+
+\be
+\item Load the SST data into your platform of choice (MATLAB or Python/Xarray)
+
+\item Initialize a map using a Mercator projection with continents filled in with grey shading. Add rivers as thick blue lines.
+
+\item Plot the mean SST data as a filled contour plot using a sequential colormap.
+
+\item Plot the SST data as anomalies from the global mean as a filled contour plot using a divergent colormap.
+
+\item Make another map of SST anomalies from the global mean using a more sensible projection (something that doesn't exaggerate the poles)
+
+\item Make a map of regional SST within 500 km of Savannah, GA using a projection that is appropriate for the smaller domain. Plot elevation over land areas, rivers and indicate the location of Savannah with a marker and a text label.
+\ee
+
+\item Download \texttt{ARGOtraj.zip} from class GitHub into the same folder where you plan to write code. This includes a series of NetCDF files with the ARGO drifter buoy location data near the East Coast of the US for the first few weeks of August 2023.
+
+\be
+\item Load all the drifter latitude/longitude data into a reasonable data type in your preferred platform.
+
+\item Make a regional plot of the Western Atlantic using a reasonable projection. Shade the coastline.
+
+\item Plot all drifter data on this map with each drifter plotted as a different color.
+
+\item Make another plot with all drifter data with each trajectory colored by the speed of the drifter at that time. Make sure to include a colorbar with a reasonable colormap.
+
+\ee
+
+\ee
+\end{document}
+\end{enumerate}
+\end{document}
