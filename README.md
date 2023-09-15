@@ -24,6 +24,7 @@ Resources:
 [Earth and Environmental Data Science Course](https://earth-env-data-science.github.io/intro.html)
 
 9/15: Basic Mapping + Version Control with GitHub (A. Robel)  
+[Slides](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/Class7_Coordinates-Taka2021-AndyUpdate2022.pptx)  
 [MATLAB live script](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/BasicMapping.mlx)  
 [Jupyter Notebook](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/BasicMappingCartopy.ipynb)  
 [Optional PS](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/Mapping_OptPS.pdf)  
