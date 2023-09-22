@@ -32,7 +32,7 @@ Resources:
 [Optional PS](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/Mapping_OptPS.pdf)  
 
 9/22: Linear algebra/Interpolation/Smoothing (T. Ito):  
-[Recording](XX)  
+[Recording](https://mediaspace.gatech.edu/media/Practical+Coding+and+Math+for+EAS/1_8j55fewz)  
 [Linear Algebra Slides](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/Class4_LinAlg.pptx)  
 [Interpolation and smoothing slides](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/Class5_Interp.pptx)  
 MIT Linear Algebra Open Course ([Strang](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)  
