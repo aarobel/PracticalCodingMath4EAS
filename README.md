@@ -38,7 +38,7 @@ Resources:
 MIT Linear Algebra Open Course - [Strang](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)  
 
 9/29: Statistics/Fourier spectra (T. Ito):  
-[Recording](XX)  
+[Recording]([XX](https://mediaspace.gatech.edu/media/Practical+Coding+and+Math+for+EAS/1_kfh766bb))  
 [Stats Slides](https://github.com/eas2655-taka/PracticalCodingMath4EAS/blob/main/Class6_Stats.pptx)  
 [Fourier Spectra Notes](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/Class12-Fourier.pptx)  
 [Fourier Spectra MATLAB script](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/Class12_Fourier.mlx)  
