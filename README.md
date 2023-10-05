@@ -50,10 +50,10 @@ Resources:
 [Recording](XX)  
 [Derivative Notes](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/Derivative%20review.pdf)  
 [Derivative MATLAB Live Script](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/Derivative_MATLAB.mlx)  
-[Derivative Jupyter Notebook](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/Derivative_notebook.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/aarobel/PracticalCodingMath4EAS/8bdc4837544c33d162f7cc7b10b1b49cfcfb8bcf?urlpath=lab%2Ftree%2FDerivative_notebook.ipynb)  
+[Derivative Jupyter Notebook](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/Derivative_notebook.ipynb)  
 [Integral Notes](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/Numerical%20Integration.pdf)  
 [Integral MATLAB Live Script](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/Integral_MATLAB.mlx)  
-[Integral Jupyter Notebook](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/Integral_notebook.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/aarobel/PracticalCodingMath4EAS/main?filepath=Integral_notebook.ipynb)  
+[Integral Jupyter Notebook](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/Integral_notebook.ipynb) 
 [Optional PS](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/DerivativesIntegrals_OptPS.pdf)  
 
 10/13: Ordinary Differential Equations/Box Models/Dynamical Systems (A. Robel):  
