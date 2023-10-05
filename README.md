@@ -54,13 +54,13 @@ Resources:
 [Integral Notes](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/Numerical%20Integration.pdf)  
 [Integral MATLAB Live Script](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/Integral_MATLAB.mlx)  
 [Integral Jupyter Notebook](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/Integral_notebook.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/aarobel/PracticalCodingMath4EAS/main?filepath=Integral_notebook.ipynb)  
+[Optional PS](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/DerivativesIntegrals_OptPS.pdf)  
 
 10/13: Ordinary Differential Equations/Box Models/Dynamical Systems (A. Robel):  
 [Recording](XX)  
 [ODE Notes](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/ODE%20Review.pdf)  
 [ODE MATLAB Live Script](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/ODE_MATLAB.mlx)  
 [ODE Jupyter Notebook](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/ODE_notebook.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/aarobel/PracticalCodingMath4EAS/main?filepath=ODE_notebook.ipynb)  
-Need to expand
 
 10/20: Partial Differential Equations/Advection/Diffusion/Waves (A. Robel):  
 [PDE Notes](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/PDE%20Review.pdf)  
