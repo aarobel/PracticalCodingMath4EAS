@@ -47,7 +47,7 @@ Resources:
 [Objective Analysis course notes by D. Hartmann at Univ Washington](https://atmos.uw.edu/~dennis/552_Notes_ftp.html)  
 
 10/6: Derivatives and Integrals (A. Robel):  
-[Recording](XX)  
+[Recording](https://mediaspace.gatech.edu/media/Practical+Coding+and+Math+for+EAS/1_el9puaco)  
 [Derivative Notes](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/Derivative%20review.pdf)  
 [Derivative MATLAB Live Script](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/Derivative_MATLAB.mlx)  
 [Derivative Jupyter Notebook](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/Derivative_notebook.ipynb)  
