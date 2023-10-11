@@ -59,10 +59,10 @@ Resources:
 10/13: Ordinary Differential Equations/Box Models/Dynamical Systems (A. Robel):  
 [Recording](XX)  
 [ODE Notes](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/ODE%20Review.pdf)  
-[Stability and Bifurcations Notes](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/StabilityBifurcations.pdf)
+[Stability and Bifurcations Notes](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/StabilityBifurcations.pdf)  
 [ODE MATLAB Live Script](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/ODE_MATLAB.mlx)  
 [ODE Jupyter Notebook](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/ODE_notebook.ipynb)  
-[Nonlinear Dynamics and Chaos by Strogatz](https://www.biodyn.ro/course/literatura/Nonlinear_Dynamics_and_Chaos_2018_Steven_H._Strogatz.pdf)
+[Nonlinear Dynamics and Chaos by Strogatz](https://www.biodyn.ro/course/literatura/Nonlinear_Dynamics_and_Chaos_2018_Steven_H._Strogatz.pdf)  
 
 10/20: Partial Differential Equations/Advection/Diffusion/Waves (A. Robel):  
 [PDE Notes](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/PDE%20Review.pdf)  
