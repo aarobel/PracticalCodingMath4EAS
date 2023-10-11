@@ -35,7 +35,8 @@ Resources:
 [Recording](https://mediaspace.gatech.edu/media/Practical+Coding+and+Math+for+EAS/1_8j55fewz)  
 [Linear Algebra Slides](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/Class4_LinAlg.pptx)  
 [Interpolation and smoothing slides](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/Class5_Interp.pptx)  
-MIT Linear Algebra Open Course - [Strang](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)  
+Resource:  
+[MIT Linear Algebra Open Course by Strang](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)  
 
 9/29: Statistics/Fourier spectra (T. Ito):  
 [Recording]([XX](https://mediaspace.gatech.edu/media/Practical+Coding+and+Math+for+EAS/1_kfh766bb))  
@@ -62,6 +63,7 @@ Resources:
 [Stability and Bifurcations Notes](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/StabilityBifurcations.pdf)  
 [ODE MATLAB Live Script](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/ODE_MATLAB.mlx)  
 [ODE Jupyter Notebook](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/ODE_notebook.ipynb)  
+Resource:  
 [Nonlinear Dynamics and Chaos by Strogatz](https://www.biodyn.ro/course/literatura/Nonlinear_Dynamics_and_Chaos_2018_Steven_H._Strogatz.pdf)  
 
 10/20: Partial Differential Equations/Advection/Diffusion/Waves (A. Robel):  
