@@ -58,7 +58,7 @@ Resources:
 [Optional PS](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/DerivativesIntegrals_OptPS.pdf)  
 
 10/13: Ordinary Differential Equations/Box Models/Dynamical Systems (A. Robel):  
-[Recording](XX)  
+[Recording](https://mediaspace.gatech.edu/media/Practical+Coding+and+Math+for+EAS/1_rspoy76z)  
 [ODE Notes](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/ODE%20Review.pdf)  
 [Stability and Bifurcations Notes](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/StabilityBifurcations.pdf)  
 [ODE MATLAB Live Script](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/ODE_MATLAB.mlx)  
