@@ -66,14 +66,14 @@ Resources:
 Resource:  
 [Nonlinear Dynamics and Chaos by Strogatz](https://www.biodyn.ro/course/literatura/Nonlinear_Dynamics_and_Chaos_2018_Steven_H._Strogatz.pdf)  
 
-10/20: Partial Differential Equations/Advection/Diffusion/Waves (A. Robel):  
+10/20: Statistical Learning/Modeling (M. Ranganathan): 
+
+10/27: Partial Differential Equations/Advection/Diffusion/Waves (A. Robel):  
 [PDE Notes](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/PDE%20Review.pdf)  
 [PDE MATLAB script](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/PDE_MATLAB_deas.m)  
 [PDE Jupyter Notebook](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/PDE_notebook.ipynb)  
 
-10/27: Statistical Learning/Modeling (M. Ranganathan): 
-
-11/3: Machine Learning (A. Robel):
+11/3: Machine Learning (A. Robel) - tentative
 
 11/10: Advanced Geographic Plotting with GMT (A. Newman):  
 [Recording](XX)   
