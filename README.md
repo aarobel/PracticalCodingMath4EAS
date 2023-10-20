@@ -66,9 +66,10 @@ Resources:
 Resource:  
 [Nonlinear Dynamics and Chaos by Strogatz](https://www.biodyn.ro/course/literatura/Nonlinear_Dynamics_and_Chaos_2018_Steven_H._Strogatz.pdf)  
 
-10/20: Statistical Learning/Modeling (M. Ranganathan): 
+10/20: Statistical Learning/Modeling (M. Ranganathan):  
+[Recording](https://mediaspace.gatech.edu/media/Practical+Coding+and+Math+for+EAS/1_stkwwnxr)
 [Statistical Learning Notes](StatisticalLearningNotes_231020.pdf)  
-[statistical Learning MATLAB Live Script](StatisticalLearningDemo_Rainfall_231020.mlx)  
+[Statistical Learning MATLAB Live Script](StatisticalLearningDemo_Rainfall_231020.mlx)  
 [Statistical Learning Jupyter Notebook](StatisticalLearningDemo_Rainfall_231020.ipynb). 
 
 10/27: Partial Differential Equations/Advection/Diffusion/Waves (A. Robel):  
