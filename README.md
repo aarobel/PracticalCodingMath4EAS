@@ -73,11 +73,14 @@ Resource:
 [Statistical Learning Jupyter Notebook](StatisticalLearningDemo_Rainfall_231020.ipynb)  
 
 10/27: Partial Differential Equations/Advection/Diffusion/Waves (A. Robel):  
+[Recording](https://mediaspace.gatech.edu/media/Practical+Coding+and+Math+for+EAS/1_0skvf403)  
 [PDE Notes](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/PDE%20Review.pdf)  
 [PDE MATLAB script](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/PDE_MATLAB_deas.m)  
 [PDE Jupyter Notebook](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/PDE_notebook.ipynb)  
 
-11/3: Machine Learning (A. Robel) - tentative
+11/3: Machine Learning (A. Robel) - No Class Today
+Resources:  
+
 
 11/10: Advanced Geographic Plotting with GMT (A. Newman):  
 [Recording](XX)   
