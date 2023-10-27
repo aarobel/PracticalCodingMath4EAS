@@ -80,7 +80,9 @@ Resource:
 
 11/3: Machine Learning (A. Robel) - No Class Today
 Resources:  
-
+[NASA ML for Remote Sensing Training](https://appliedsciences.nasa.gov/get-involved/training/english/arset-fundamentals-machine-learning-earth-science)  
+[Textbook on ML for Earth Science (Textbook and Python)](https://link.springer.com/book/10.1007/978-3-031-35114-3)  
+[CSU Intro to ML for Earth Sci (Google Slides and Python)](https://github.com/eabarnes1010/ml_tutorial_csu)  
 
 11/10: Advanced Geographic Plotting with GMT (A. Newman):  
 [Recording](XX)   
