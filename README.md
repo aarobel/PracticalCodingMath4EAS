@@ -78,7 +78,7 @@ Resource:
 [Statistical Learning MATLAB Live Script](StatisticalLearningDemo_Rainfall_231020.mlx)  
 [Statistical Learning Jupyter Notebook](StatisticalLearningDemo_Rainfall_231020.ipynb)  
 
-11/1: Machine Learning (A. Robel)
+11/1: Machine Learning (A. Robel)  
 Resources:  
 [NASA ML for Remote Sensing Training](https://appliedsciences.nasa.gov/get-involved/training/english/arset-fundamentals-machine-learning-earth-science)  
 [Textbook on ML for Earth Science (Textbook and Python)](https://link.springer.com/book/10.1007/978-3-031-35114-3)  
