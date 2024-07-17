@@ -22,16 +22,13 @@ Resources:
 [Project Pythia](https://foundations.projectpythia.org/landing-page.html)   
 [Earth and Environmental Data Science Course](https://earth-env-data-science.github.io/intro.html)
 
-9/13: Linear algebra/Interpolation/Smoothing (A. Robel):  
+9/13: Linear algebra (A. Robel):  
 [Linear Algebra Slides](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/Class4_LinAlg.pptx)  
-[Interpolation and smoothing slides](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/Class5_Interp.pptx)  
 Resource:  
 [MIT Linear Algebra Open Course by Strang](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)  
 
-9/20: Statistics/Fourier spectra (A. Robel):  
-[Stats Slides](https://github.com/eas2655-taka/PracticalCodingMath4EAS/blob/main/Class6_Stats.pptx)  
-[Fourier Spectra Notes](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/Class12-Fourier.pptx)  
-[Fourier Spectra MATLAB script](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/Class12_Fourier.mlx)  
+9/20: Statistics (A. Robel):  
+[Stats Notes](https://github.com/eas2655-taka/PracticalCodingMath4EAS/blob/main/Class6_Stats.pptx)  
 Resources:  
 [Introduction to Error Analysis by J.R.Taylor](https://ia801307.us.archive.org/14/items/TaylorJ.R.IntroductionToErrorAnalysis2ed/Taylor%20J.R.%20Introduction%20to%20error%20analysis%202ed_text.pdf)  
 [Objective Analysis course notes by D. Hartmann at Univ Washington](https://atmos.uw.edu/~dennis/552_Notes_ftp.html)  
@@ -43,7 +40,12 @@ Resources:
 [Jupyter Notebook](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/BasicMappingCartopy.ipynb)  
 [Problem Set](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/Mapping_OptPS.pdf)  
 
-10/4: Derivatives and Integrals (M. Mamer):  
+10/4: Fourier Spectra + Interpolation/Smoothing (A. Robel)
+[Fourier Spectra Notes](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/Class12-Fourier.pptx)  
+[Interpolation and smoothing slides](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/Class5_Interp.pptx)  
+[Fourier Spectra MATLAB script](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/Class12_Fourier.mlx)  
+
+10/11: Derivatives and Integrals (M. Mamer):  
 [Derivative Notes](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/Derivative%20review.pdf)  
 [Derivative MATLAB Live Script](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/Derivative_MATLAB.mlx)  
 [Derivative Jupyter Notebook](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/Derivative_notebook.ipynb)  
@@ -52,7 +54,7 @@ Resources:
 [Integral Jupyter Notebook](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/Integral_notebook.ipynb) 
 [Problem Set](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/DerivativesIntegrals_OptPS.pdf)  
 
-10/11: Ordinary Differential Equations/Box Models/Dynamical Systems (A. Robel):  
+10/18: Ordinary Differential Equations/Box Models/Dynamical Systems (A. Robel):  
 [ODE Notes](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/ODE%20Review.pdf)  
 [Stability and Bifurcations Notes](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/StabilityBifurcations.pdf)  
 [ODE MATLAB Live Script](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/ODE_MATLAB.mlx)  
@@ -60,17 +62,15 @@ Resources:
 Resource:  
 [Nonlinear Dynamics and Chaos by Strogatz](https://www.biodyn.ro/course/literatura/Nonlinear_Dynamics_and_Chaos_2018_Steven_H._Strogatz.pdf)  
 
-10/18: Partial Differential Equations/Advection/Diffusion/Waves (A. Robel):  
+10/25: Partial Differential Equations/Advection/Diffusion/Waves (A. Robel):  
 [PDE Notes](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/PDE%20Review.pdf)  
 [PDE MATLAB script](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/PDE_MATLAB_deas.m)  
 [PDE Jupyter Notebook](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/PDE_notebook.ipynb)  
 
-10/25: Statistical Learning/Modeling (A. Robel):  
-[Statistical Learning Notes](StatisticalLearningNotes_231020.pdf)  
+11/1: Statistical/Machine Learning (A. Robel):  
+[Statistical/Machine Learning Notes](StatisticalLearningNotes_231020.pdf)  
 [Statistical Learning MATLAB Live Script](StatisticalLearningDemo_Rainfall_231020.mlx)  
-[Statistical Learning Jupyter Notebook](StatisticalLearningDemo_Rainfall_231020.ipynb)  
-
-11/1: Machine Learning (A. Robel)  
+[Statistical Learning Jupyter Notebook](StatisticalLearningDemo_Rainfall_231020.ipynb)   
 Resources:  
 [NASA ML for Remote Sensing Training](https://appliedsciences.nasa.gov/get-involved/training/english/arset-fundamentals-machine-learning-earth-science)  
 [Textbook on ML for Earth Science (Textbook and Python)](https://link.springer.com/book/10.1007/978-3-031-35114-3)  
