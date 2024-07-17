@@ -1,5 +1,5 @@
 # PracticalCodingMath4EAS
-Practical math and coding course for Georgia Tech EAS graduate students (Fall 2024)
+Practical math and coding course for Georgia Tech EAS graduate students (Fall 2024)  
 [Link to course recording playlist from 2023](https://mediaspace.gatech.edu/playlist/dedicated/1_ilv7c4yi/)  
 
 2024 notes and code:
