@@ -4,17 +4,17 @@ Practical math and coding course for Georgia Tech EAS graduate students (Fall 20
 
 2024 notes and code:
 
-8/23: MATLAB and Python Coding Basics (A. Robel):  
+#### 8/23: MATLAB and Python Coding Basics (A. Robel)  
 [MATLAB live script](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/MATLAB_basics.mlx)  
 [Jupyter Notebook](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/Python_basics.ipynb)  
 [Problem Set](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/CodingBasics_OptPS.pdf)
 
-8/30: Basic Plotting in MATLAB and Python (M. Mamer):  
+8/30: Basic Plotting in MATLAB and Python (M. Mamer)  
 [MATLAB live script](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/MATLAB_plotting.mlx)  
 [Jupyter Notebook](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/Python_plotting.ipynb)  
 [Problem Set](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/PlottingBasics_OptPS.pdf)
 
-9/6: Data Formats/Pandas/Xarray (M. Mamer):  
+9/6: Data Formats/Pandas/Xarray (M. Mamer)  
 [MATLAB live script](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/FileFormats.mlx)  
 [Jupyter Notebook](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/FileFormats_xarray_pandas.ipynb)  
 [Problem Set](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/FileFormats_OptPS.pdf)  
@@ -22,12 +22,12 @@ Resources:
 [Project Pythia](https://foundations.projectpythia.org/landing-page.html)   
 [Earth and Environmental Data Science Course](https://earth-env-data-science.github.io/intro.html)
 
-9/13: Linear algebra (A. Robel):  
+9/13: Linear algebra (A. Robel)  
 [Linear Algebra Slides](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/Class4_LinAlg.pptx)  
 Resource:  
 [MIT Linear Algebra Open Course by Strang](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)  
 
-9/20: Statistics (A. Robel):  
+9/20: Statistics (A. Robel)  
 [Stats Notes](https://github.com/eas2655-taka/PracticalCodingMath4EAS/blob/main/Class6_Stats.pptx)  
 Resources:  
 [Introduction to Error Analysis by J.R.Taylor](https://ia801307.us.archive.org/14/items/TaylorJ.R.IntroductionToErrorAnalysis2ed/Taylor%20J.R.%20Introduction%20to%20error%20analysis%202ed_text.pdf)  
@@ -40,7 +40,7 @@ Resources:
 [Jupyter Notebook](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/BasicMappingCartopy.ipynb)  
 [Problem Set](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/Mapping_OptPS.pdf)  
 
-10/4: Fourier Spectra + Interpolation/Smoothing (A. Robel)
+10/4: Fourier Spectra + Interpolation/Smoothing (A. Robel)  
 [Fourier Spectra Notes](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/Class12-Fourier.pptx)  
 [Interpolation and smoothing slides](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/Class5_Interp.pptx)  
 [Fourier Spectra MATLAB script](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/Class12_Fourier.mlx)  
