@@ -22,7 +22,7 @@ Resources:
 [Project Pythia](https://foundations.projectpythia.org/landing-page.html)   
 [Earth and Environmental Data Science Course](https://earth-env-data-science.github.io/intro.html)
 
-### 9/13: Linear algebra (A. Robel)
+### 9/13: Linear Algebra (A. Robel)
 [Linear Algebra Slides](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/Class4_LinAlg.pptx)  
 Resource:  
 [MIT Linear Algebra Open Course by Strang](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)  
