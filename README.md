@@ -7,17 +7,17 @@ Practical math and coding course for Georgia Tech EAS graduate students (Fall 20
 8/23: MATLAB and Python Coding Basics (A. Robel):  
 [MATLAB live script](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/MATLAB_basics.mlx)  
 [Jupyter Notebook](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/Python_basics.ipynb)  
-[Optional PS](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/CodingBasics_OptPS.pdf)
+[Problem Set](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/CodingBasics_OptPS.pdf)
 
 8/30: Basic Plotting in MATLAB and Python (M. Mamer):  
 [MATLAB live script](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/MATLAB_plotting.mlx)  
 [Jupyter Notebook](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/Python_plotting.ipynb)  
-[Optional PS](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/PlottingBasics_OptPS.pdf)
+[Problem Set](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/PlottingBasics_OptPS.pdf)
 
 9/6: Data Formats/Pandas/Xarray (M. Mamer):  
 [MATLAB live script](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/FileFormats.mlx)  
 [Jupyter Notebook](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/FileFormats_xarray_pandas.ipynb)  
-[Optional PS](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/FileFormats_OptPS.pdf)  
+[Problem Set](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/FileFormats_OptPS.pdf)  
 Resources:  
 [Project Pythia](https://foundations.projectpythia.org/landing-page.html)   
 [Earth and Environmental Data Science Course](https://earth-env-data-science.github.io/intro.html)
@@ -41,7 +41,7 @@ Resources:
 [Projection Slides](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/Class7_Coordinates-Taka2021-AndyUpdate2022.pptx)  
 [MATLAB live script](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/BasicMapping.mlx)  
 [Jupyter Notebook](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/BasicMappingCartopy.ipynb)  
-[Optional PS](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/Mapping_OptPS.pdf)  
+[Problem Set](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/Mapping_OptPS.pdf)  
 
 10/4: Derivatives and Integrals (M. Mamer):  
 [Derivative Notes](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/Derivative%20review.pdf)  
@@ -50,7 +50,7 @@ Resources:
 [Integral Notes](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/Numerical%20Integration.pdf)  
 [Integral MATLAB Live Script](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/Integral_MATLAB.mlx)  
 [Integral Jupyter Notebook](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/Integral_notebook.ipynb) 
-[Optional PS](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/DerivativesIntegrals_OptPS.pdf)  
+[Problem Set](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/DerivativesIntegrals_OptPS.pdf)  
 
 10/11: Ordinary Differential Equations/Box Models/Dynamical Systems (A. Robel):  
 [ODE Notes](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/ODE%20Review.pdf)  
