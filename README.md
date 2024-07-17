@@ -4,7 +4,7 @@ Practical math and coding course for Georgia Tech EAS graduate students (Fall 20
 
 2024 notes and code:
 
-#### 8/23: MATLAB and Python Coding Basics (A. Robel)  
+### 8/23: MATLAB and Python Coding Basics (A. Robel)
 [MATLAB live script](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/MATLAB_basics.mlx)  
 [Jupyter Notebook](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/Python_basics.ipynb)  
 [Problem Set](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/CodingBasics_OptPS.pdf)
