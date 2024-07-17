@@ -23,7 +23,7 @@ Resources:
 [Earth and Environmental Data Science Course](https://earth-env-data-science.github.io/intro.html)
 
 ### 9/13: Linear Algebra (A. Robel)
-[Linear Algebra Slides](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/LinearAlgebra_NoteForm.pdf)  
+[Linear Algebra Notes](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/LinearAlgebra_NoteForm.pdf)  
 [MATLAB Live Script](XX)  
 [Jupyter Notebook](XX)  
 [Problem Set](XX)  
@@ -31,7 +31,7 @@ Resource:
 [MIT Linear Algebra Open Course by Strang](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)  
 
 ### 9/20: Statistics (A. Robel)
-[Stats Notes](https://github.com/eas2655-taka/PracticalCodingMath4EAS/blob/main/Class6_Stats.pptx)  
+[Stats Notes](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/Stats_NoteForm.pdf)  
 [MATLAB Live Script](XX)  
 [Jupyter Notebook](XX)  
 [Problem Set](XX)  
@@ -47,8 +47,8 @@ Resources:
 [Problem Set](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/Mapping_OptPS.pdf)  
 
 ### 10/4: Fourier Spectra + Interpolation/Smoothing (A. Robel)
-[Fourier Spectra Notes](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/Class12-Fourier.pptx)  
-[Interpolation and smoothing slides](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/Class5_Interp.pptx)  
+[Fourier Spectra Notes](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/Fourier_NoteForm.pdf)  
+[Interpolation and smoothing slides](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/InterpSmooth_NoteForm.pdf)  
 [MATLAB live script](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/Class12_Fourier.mlx)  
 [Jupyter Notebook](XX)  
 [Problem Set](XX)  
