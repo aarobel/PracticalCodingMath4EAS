@@ -24,16 +24,16 @@ Resources:
 
 ### 9/13: Linear Algebra (A. Robel)
 [Linear Algebra Notes](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/LinearAlgebra_NoteForm.pdf)  
-[MATLAB Live Script](XX)  
-[Jupyter Notebook](XX)  
-[Problem Set](XX)  
+[MATLAB Live Script](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/LinearAlgebra_MATLAB.mlx)  
+[Jupyter Notebook](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/LinearAlgebra_Python.ipynb)  
+[Problem Set](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/LinearAlgebra_PS.pdf)  
 Resource:  
 [MIT Linear Algebra Open Course by Strang](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)  
 
 ### 9/20: Statistics (A. Robel)
 [Stats Notes](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/Stats_NoteForm.pdf)  
-[MATLAB Live Script](XX)  
-[Jupyter Notebook](XX)  
+[MATLAB Live Script](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/Stats_MATLAB.mlx)  
+[Jupyter Notebook](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/Stats_Python.ipynb)  
 [Problem Set](XX)  
 Resources:  
 [Introduction to Error Analysis by J.R.Taylor](https://ia801307.us.archive.org/14/items/TaylorJ.R.IntroductionToErrorAnalysis2ed/Taylor%20J.R.%20Introduction%20to%20error%20analysis%202ed_text.pdf)  
