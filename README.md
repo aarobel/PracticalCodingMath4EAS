@@ -46,11 +46,11 @@ Resources:
 [Jupyter Notebook](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/BasicMappingCartopy.ipynb)  
 [Problem Set](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/Mapping_OptPS.pdf)  
 
-### 10/4: Fourier Spectra + Interpolation/Smoothing (A. Robel)
+### 10/4: Interpolation/Smoothing + Fourier Spectra (A. Robel)
 [Fourier Spectra Notes](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/Fourier_NoteForm.pdf)  
 [Interpolation and smoothing slides](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/InterpSmooth_NoteForm.pdf)  
 [MATLAB live script](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/Class12_Fourier.mlx)  
-[Jupyter Notebook](XX)  
+[Jupyter Notebook](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/InterpSmoothFourier_Python.ipynb)  
 [Problem Set](XX)  
 
 ### 10/11: Derivatives and Integrals (M. Mamer)
