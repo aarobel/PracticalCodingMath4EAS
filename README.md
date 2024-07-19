@@ -34,7 +34,7 @@ Resource:
 [Stats Notes](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/Stats_NoteForm.pdf)  
 [MATLAB Live Script](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/Stats_MATLAB.mlx)  
 [Jupyter Notebook](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/Stats_Python.ipynb)  
-[Problem Set](XX)  
+[Problem Set](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main/Stats_PS.pdf)  
 Resources:  
 [Introduction to Error Analysis by J.R.Taylor](https://ia801307.us.archive.org/14/items/TaylorJ.R.IntroductionToErrorAnalysis2ed/Taylor%20J.R.%20Introduction%20to%20error%20analysis%202ed_text.pdf)  
 [Objective Analysis course notes by D. Hartmann at Univ Washington](https://atmos.uw.edu/~dennis/552_Notes_ftp.html)  
