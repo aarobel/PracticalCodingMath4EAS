@@ -1,0 +1,55 @@
+\documentclass{article}
+\usepackage[T1]{fontenc}
+\usepackage{amsmath,amssymb,epsfig,wrapfig,xfrac}
+\usepackage{natbib}
+\usepackage{lineno,chapterbib}
+%\usepackage[pdftex]{graphicx}
+\graphicspath{{./}}
+\oddsidemargin=0.1in
+\bibliographystyle{apalike}
+\usepackage[pdftex,bookmarks,colorlinks=true,plainpages=false, 
+citecolor=black,urlcolor=blue,filecolor=blue]{hyperref} % usage: \href{URL}{text}
+\newcommand*\samethanks[1][\value{footnote}]{\footnotemark[#1]}
+\newcommand{\mytilde}{\raise.17ex\hbox{$\scriptstyle\mathtt{\sim}$}}
+\newcommand{\pd}[2]{\frac{\partial {#1}}{\partial {#2}}}
+\newcommand{\od}[2]{\frac{\mathrm{d} {#1}}{\mathrm{d} {#2}}}
+\newcommand{\pdl}[2]{{\partial {#1}}/{\partial {#2}}}
+\newcommand{\beq}{\begin{equation*}}
+\newcommand{\eeq}{\end{equation*}}
+\newcommand{\be}{\begin{enumerate}} 
+\newcommand{\ee}{\end{enumerate}}
+
+\setlength{\topmargin}{-0.5in}
+
+\setlength{\textwidth}{6.5in}
+\setlength{\textheight}{9.1in}
+\title{\vspace{-1in} PS: Interpolation, Smoothing and Fourier Series}
+\date{}
+\begin{document}
+
+\maketitle
+
+\noindent Download hourly sea level data from Charleston, SC using \href{https://tidesandcurrents.noaa.gov/waterlevels.html?id=8665530}{the NOAA tide \& currents website}. Select a time range of the last year, ``1 hr'' interval and have it output ``Data Only''. Then click ``export to CSV''.
+
+\be
+\item Read in the sea level data, creating separate vectors for the date and the verified sea level.
+
+\item Calculate the Fourier coefficients of this data and note the frequencies of the dominant tides.
+
+\item Smooth the data with a boxcar window of 24 hours and plot the resulting smoothed time series over a time series of the original data, zooming in to a one week period of data.
+
+\item Smooth the data with Gaussian windows of 12 and 24 hours and plot the resulting smoothed time series on top of the previous plot.
+
+\item Calculate the daily average tidal cycle
+
+\item Calculate and plot 1 month of anomalies from the mean daily tidal cycle
+
+\item Filter out all periodicities less than 1 day and the plot the result one year filtered time series
+
+\ee
+
+\noindent Now using the monthly sea level data from Charleston from the last two problem sets, calculate a smoothed time series, filtering out sub-annual variability in a way that you choose. Use various statistics on the filtered data to determine if the long-term rate of sea level rise has changed, and if so, estimate when it changed.
+
+\end{document}
+\end{enumerate}
+\end{document}

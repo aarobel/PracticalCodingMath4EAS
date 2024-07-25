@@ -1,0 +1,70 @@
+\documentclass{article}
+\usepackage[T1]{fontenc}
+\usepackage{amsmath,amssymb,epsfig,wrapfig,xfrac}
+\usepackage{natbib}
+\usepackage{lineno,chapterbib}
+%\usepackage[pdftex]{graphicx}
+\graphicspath{{./}}
+\oddsidemargin=0.1in
+\bibliographystyle{apalike}
+\usepackage[pdftex,bookmarks,colorlinks=true,plainpages=false, 
+citecolor=black,urlcolor=blue,filecolor=blue]{hyperref} % usage: \href{URL}{text}
+\newcommand*\samethanks[1][\value{footnote}]{\footnotemark[#1]}
+\newcommand{\mytilde}{\raise.17ex\hbox{$\scriptstyle\mathtt{\sim}$}}
+\newcommand{\pd}[2]{\frac{\partial {#1}}{\partial {#2}}}
+\newcommand{\od}[2]{\frac{\mathrm{d} {#1}}{\mathrm{d} {#2}}}
+\newcommand{\pdl}[2]{{\partial {#1}}/{\partial {#2}}}
+\newcommand{\beq}{\begin{equation*}}
+\newcommand{\eeq}{\end{equation*}}
+\newcommand{\be}{\begin{enumerate}} 
+\newcommand{\ee}{\end{enumerate}}
+
+\setlength{\topmargin}{-0.5in}
+
+\setlength{\textwidth}{6.5in}
+\setlength{\textheight}{9.1in}
+\title{\vspace{-1in} PS: Derivatives and Integrals}
+\date{}
+\begin{document}
+
+\maketitle
+\be 
+\item Consider the complicated function
+\begin{equation}
+f(x) = e^{\cos (\frac{\ln(x)^3}{2 \pi})}
+\end{equation}
+
+\be
+\item  Find $\frac{df}{dx}$ analytically
+
+\item Calculate the numerical derivative of $f(x)$ over the interval $x=[0,2]$.
+
+\item Plot the analytical and numerical derivatives of $f(x)$ on the same plot (so that both lines can be seen).
+
+\ee
+
+\item Download \texttt{StoneMountain\_SRTM.csv} from class GitHub. This is a digital elevation model of Stone Mountain, just outside of Atlanta from the SRTM dataset.
+
+\be
+\item Calculate and plot the local slope in the N-S direction and the E-W direction.
+
+\item Calculate and plot the local gradient
+
+\ee
+
+\item Given an instantaneous change of mass distribution on the surface of the Earth, the shape of the Earth's gravity field (also known as the ``Geoid'') will change, causing a change in the sea level surface. If the change in mass is concentrated as the South Pole (i.e. ice melt in Antarctica), then the corresponding change in sea level is given by a convolutional integral that is purely a function of latitude ($\theta_0$):
+\beq
+S(\theta_0) = \int_{-\frac{\pi}{2}}^{\frac{\pi}{2}} -\left(\frac{1}{2 \sin (|\theta-\theta_0|/2) + 10^{-3}} - 1 - \frac{\rho_e}{\rho_w} \right) e^{-10 (\theta+\frac{\pi}{2})^2}  d \theta
+\eeq
+where $\rho_e=5.5$ g/cm$^3$ is the average density of the Earth and $\rho_w=1$ g/cm$^3$ is the density of ocean water.
+\be
+  \item Calculate the expected sea level change ($S$) near Atlanta $\theta_0 \approx 0.59$ by using numerical integration to calculate the sea level integral.
+  \item Calculate and plot the expected sea level change ($S$) as a function of latitude over $\theta_0 = [-1.5,1.5]$.
+\ee
+
+
+
+\ee
+\end{document}
+\end{enumerate}
+\end{document}

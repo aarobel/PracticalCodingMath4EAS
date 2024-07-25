@@ -1,0 +1,58 @@
+\documentclass{article}
+\usepackage[T1]{fontenc}
+\usepackage{amsmath,amssymb,epsfig,wrapfig,xfrac}
+\usepackage{natbib}
+\usepackage{lineno,chapterbib}
+%\usepackage[pdftex]{graphicx}
+\graphicspath{{./}}
+\oddsidemargin=0.1in
+\bibliographystyle{apalike}
+\usepackage[pdftex,bookmarks,colorlinks=true,plainpages=false, 
+citecolor=black,urlcolor=blue,filecolor=blue]{hyperref} % usage: \href{URL}{text}
+\newcommand*\samethanks[1][\value{footnote}]{\footnotemark[#1]}
+\newcommand{\mytilde}{\raise.17ex\hbox{$\scriptstyle\mathtt{\sim}$}}
+\newcommand{\pd}[2]{\frac{\partial {#1}}{\partial {#2}}}
+\newcommand{\od}[2]{\frac{\mathrm{d} {#1}}{\mathrm{d} {#2}}}
+\newcommand{\pdl}[2]{{\partial {#1}}/{\partial {#2}}}
+\newcommand{\beq}{\begin{equation*}}
+\newcommand{\eeq}{\end{equation*}}
+\newcommand{\be}{\begin{enumerate}} 
+\newcommand{\ee}{\end{enumerate}}
+
+\setlength{\topmargin}{-0.5in}
+
+\setlength{\textwidth}{6.5in}
+\setlength{\textheight}{9.1in}
+\title{\vspace{-1in} PS: Plotting Basics}
+\date{}
+\begin{document}
+
+\maketitle
+
+Download \texttt{ATL\_MonMeanTemp\_1879\_2020.csv} and \texttt{SEA\_MonMeanTemp\_1894\_2020.csv} files from class GitHub into the same folder where you plan to write code.
+
+\be
+\item Read in the Atlanta and Seattle temperature data into separate matrices/arrays. In MATLAB, use \texttt{csvread} or the ``Import Data'' utility. In Python use \texttt{numpy.genfromxt}.
+
+\item Plot the time series of Atlanta September temperature data from 1900 to 2020. Make sure to label all axes and make everything readable.
+
+\item Plot the time series of Seattle September temperature data from 1900 to 2020, making sure first to replace any missing data with a NaN. Make sure to label all axes and make everything readable. 
+
+\item Plot all Atlanta data as a contour or pcolor plot with year on x-axis and month on y-axis. Use a sensible colormap and label axes.
+
+\item Plot all Seattle data as a contour or pcolor plot with year on x-axis and month on y-axis. Use a sensible colormap and label axes. Be careful with missing data.
+
+\item In a row of two subplots (one for each city), make box plots showing the range of monthly temperature. Make sure the y-axes are the same so the difference between the cities is obvious.
+
+\item Plot a histogram of July temperatures in Atlanta, then plot a curve on top of it using the following equation for a Gaussian:
+\begin{equation}
+\frac{1}{\sqrt{2 \pi} \sigma} \exp \left[-\frac{1}{2} \left(\frac{x-\mu}{\sigma} \right)^2 \right]
+\end{equation}
+where $\sigma$ and $\mu$ are the standard deviation and mean calculated from the data with appropriate functions.
+
+\item Make a scatter plot of Atlanta temperatures vs Seattle temperatures for corresponding months.
+
+\ee
+\end{document}
+\end{enumerate}
+\end{document}

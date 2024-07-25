@@ -1,0 +1,49 @@
+\documentclass{article}
+\usepackage[T1]{fontenc}
+\usepackage{amsmath,amssymb,epsfig,wrapfig,xfrac}
+\usepackage{natbib}
+\usepackage{lineno,chapterbib}
+%\usepackage[pdftex]{graphicx}
+\graphicspath{{./}}
+\oddsidemargin=0.1in
+\bibliographystyle{apalike}
+\usepackage[pdftex,bookmarks,colorlinks=true,plainpages=false, 
+citecolor=black,urlcolor=blue,filecolor=blue]{hyperref} % usage: \href{URL}{text}
+\newcommand*\samethanks[1][\value{footnote}]{\footnotemark[#1]}
+\newcommand{\mytilde}{\raise.17ex\hbox{$\scriptstyle\mathtt{\sim}$}}
+\newcommand{\pd}[2]{\frac{\partial {#1}}{\partial {#2}}}
+\newcommand{\od}[2]{\frac{\mathrm{d} {#1}}{\mathrm{d} {#2}}}
+\newcommand{\pdl}[2]{{\partial {#1}}/{\partial {#2}}}
+\newcommand{\beq}{\begin{equation*}}
+\newcommand{\eeq}{\end{equation*}}
+\newcommand{\be}{\begin{enumerate}} 
+\newcommand{\ee}{\end{enumerate}}
+
+\setlength{\topmargin}{-0.5in}
+
+\setlength{\textwidth}{6.5in}
+\setlength{\textheight}{9.1in}
+\title{\vspace{-1in} PS: Statistics}
+\date{}
+\begin{document}
+
+\maketitle
+
+Download monthly sea level data from Charleston, SC using \href{https://psmsl.org/data/obtaining/rlr.monthly.data/234.rlrdata}{this PSMSL dataset}. You can download it directly or copy and paste it into a .txt file.
+
+\be
+\item Read in the sea level data, creating separate vectors for the date (first column) and the sea level (second column).
+
+\item Plot the histograms of sea level data for these time periods on top of each other: 1923-1942, 2003-2022
+
+\item Calculate mean May sea level for each of these two periods
+
+\item Calculate t-values for each of these time periods
+
+\item Evaluate whether we can reject the null hypothesis at a 95\% confidence level that the mean May sea level from each of these periods is the same as the long-term mean of May sea level (and if so, at what level) 
+
+
+\ee
+\end{document}
+\end{enumerate}
+\end{document}

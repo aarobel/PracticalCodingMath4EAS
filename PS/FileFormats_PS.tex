@@ -1,0 +1,62 @@
+\documentclass{article}
+\usepackage[T1]{fontenc}
+\usepackage{amsmath,amssymb,epsfig,wrapfig,xfrac}
+\usepackage{natbib}
+\usepackage{lineno,chapterbib}
+%\usepackage[pdftex]{graphicx}
+\graphicspath{{./}}
+\oddsidemargin=0.1in
+\bibliographystyle{apalike}
+\usepackage[pdftex,bookmarks,colorlinks=true,plainpages=false, 
+citecolor=black,urlcolor=blue,filecolor=blue]{hyperref} % usage: \href{URL}{text}
+\newcommand*\samethanks[1][\value{footnote}]{\footnotemark[#1]}
+\newcommand{\mytilde}{\raise.17ex\hbox{$\scriptstyle\mathtt{\sim}$}}
+\newcommand{\pd}[2]{\frac{\partial {#1}}{\partial {#2}}}
+\newcommand{\od}[2]{\frac{\mathrm{d} {#1}}{\mathrm{d} {#2}}}
+\newcommand{\pdl}[2]{{\partial {#1}}/{\partial {#2}}}
+\newcommand{\beq}{\begin{equation*}}
+\newcommand{\eeq}{\end{equation*}}
+\newcommand{\be}{\begin{enumerate}} 
+\newcommand{\ee}{\end{enumerate}}
+
+\setlength{\topmargin}{-0.5in}
+
+\setlength{\textwidth}{6.5in}
+\setlength{\textheight}{9.1in}
+\title{\vspace{-1in} PS: File Formats}
+\date{}
+\begin{document}
+
+\maketitle
+
+Download \texttt{hurricane\_data\_after2000.csv} from class GitHub into the same folder where you plan to write code.
+
+\be
+\item Read the hurricane data into a Pandas dataframe.
+
+\item Make ISO\_TIME the index on your dataframe
+
+\item Find the unique values of the BASIN, SUBBASIN, and NATURE columns.
+
+\item Rename the WMO\_WIND and WMO\_PRES columns to WIND and PRES.
+
+\item Get the 10 largest rows in the dataset by WIND.
+
+\item Group the data on SID and get the 10 largest hurricanes by WIND.
+
+\item Make a bar chart of the wind speed of the 20 strongest-wind hurricanes.
+
+\item Plot the count of all datapoints by Basin
+
+\item Plot the count of unique hurricanes by Basin.
+
+\item Make a \href{https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.plot.hexbin.html}{hexbin} of the location of datapoints in Latitude and Longitude.
+
+\item Plot the count of all datapoints per year as a timeseries using resample
+
+\item Calculate the climatology of datapoint counts as a function of dayofyear
+
+\ee
+\end{document}
+\end{enumerate}
+\end{document}

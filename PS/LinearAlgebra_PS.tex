@@ -1,0 +1,48 @@
+\documentclass{article}
+\usepackage[T1]{fontenc}
+\usepackage{amsmath,amssymb,epsfig,wrapfig,xfrac}
+\usepackage{natbib}
+\usepackage{lineno,chapterbib}
+%\usepackage[pdftex]{graphicx}
+\graphicspath{{./}}
+\oddsidemargin=0.1in
+\bibliographystyle{apalike}
+\usepackage[pdftex,bookmarks,colorlinks=true,plainpages=false, 
+citecolor=black,urlcolor=blue,filecolor=blue]{hyperref} % usage: \href{URL}{text}
+\newcommand*\samethanks[1][\value{footnote}]{\footnotemark[#1]}
+\newcommand{\mytilde}{\raise.17ex\hbox{$\scriptstyle\mathtt{\sim}$}}
+\newcommand{\pd}[2]{\frac{\partial {#1}}{\partial {#2}}}
+\newcommand{\od}[2]{\frac{\mathrm{d} {#1}}{\mathrm{d} {#2}}}
+\newcommand{\pdl}[2]{{\partial {#1}}/{\partial {#2}}}
+\newcommand{\beq}{\begin{equation*}}
+\newcommand{\eeq}{\end{equation*}}
+\newcommand{\be}{\begin{enumerate}} 
+\newcommand{\ee}{\end{enumerate}}
+
+\setlength{\topmargin}{-0.5in}
+
+\setlength{\textwidth}{6.5in}
+\setlength{\textheight}{9.1in}
+\title{\vspace{-1in} PS: Linear Algebra}
+\begin{document}
+
+\maketitle
+
+Download monthly sea level data from Charleston, SC using \href{https://psmsl.org/data/obtaining/rlr.monthly.data/234.rlrdata}{this PSMSL dataset}. You can download it directly or copy and paste it into a .txt file.
+
+\be
+\item Read in the sea level data, creating separate vectors for the date (first column) and the sea level (second column).
+
+\item Plot the time series of sea level data
+
+\item Fit a linear regression to the whole time series (1921-2023)
+
+\item Calculate the anomalies about the linear regression, and then calculate the variance about the detrended data.
+
+\item Calculate sea level rise rates for each of these periods: 1923-1942, 1943-1962, 1963-1982, 1983-2002, 2003-2022
+
+
+\ee
+\end{document}
+\end{enumerate}
+\end{document}
