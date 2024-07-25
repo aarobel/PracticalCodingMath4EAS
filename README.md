@@ -59,7 +59,7 @@ Resources:
 [Derivative Jupyter Notebook](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main24/Demos/Derivative_notebook.ipynb)  
 [Integral Notes](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main24/Notes/Numerical%20Integration.pdf)  
 [Integral MATLAB Live Script](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main24/Demos/Integral_MATLAB.mlx)  
-[Integral Jupyter Notebook](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main24/Demos/Integral_notebook.ipynb) 
+[Integral Jupyter Notebook](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main24/Demos/Integral_notebook.ipynb)  
 [Problem Set](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main24/PS/DerivativesIntegrals_PS.pdf)  
 
 ### 10/18: Ordinary Differential Equations/Box Models/Dynamical Systems (A. Robel)
