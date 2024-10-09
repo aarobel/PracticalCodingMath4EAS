@@ -77,12 +77,13 @@ Resource:
 [PDE Jupyter Notebook](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main24/Demos/PDE_notebook.ipynb)  
 [Problem Set](XX)  
 
-### 11/1: Statistical/Machine Learning (A. Robel)
-[Statistical/Machine Learning Notes](/Notes/StatisticalLearningNotes_231020.pdf)  
-[Statistical Learning MATLAB Live Script](/Demos/StatisticalLearningDemo_Rainfall_231020.mlx)  
-[Statistical Learning Jupyter Notebook](/Demos/StatisticalLearningDemo_Rainfall_231020.ipynb)   
-[Problem Set](XX)  
+### 11/1: Machine Learning (A. Sarhadi)
+To Come  
+
 Resources:  
+[Statistical/Machine Learning Notes (2023)](/Notes/StatisticalLearningNotes_231020.pdf)  
+[Statistical Learning MATLAB Live Script (2023)](/Demos/StatisticalLearningDemo_Rainfall_231020.mlx)  
+[Statistical Learning Jupyter Notebook (2023)](/Demos/StatisticalLearningDemo_Rainfall_231020.ipynb)   
 [NASA ML for Remote Sensing Training](https://appliedsciences.nasa.gov/get-involved/training/english/arset-fundamentals-machine-learning-earth-science)  
 [Textbook on ML for Earth Science (Textbook and Python)](https://link.springer.com/book/10.1007/978-3-031-35114-3)  
 [CSU Intro to ML for Earth Sci (Google Slides and Python)](https://github.com/eabarnes1010/ml_tutorial_csu)  
