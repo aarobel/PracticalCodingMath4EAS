@@ -78,17 +78,10 @@ Resource:
 [Problem Set](XX)  
 
 ### 11/1: Machine Learning (A. Sarhadi)
-<<<<<<< HEAD
 [Machine Learning Materials To Come](XX)
 
 Resources:  
-[Statistical Learning Notes (2023)](/Notes/StatisticalLearningNotes_231020.pdf)  
-=======
-To Come  
-
-Resources:  
 [Statistical/Machine Learning Notes (2023)](/Notes/StatisticalLearningNotes_231020.pdf)  
->>>>>>> 07c65b78aa782d7ec8d7a1bc99fb38921cdb8ea2
 [Statistical Learning MATLAB Live Script (2023)](/Demos/StatisticalLearningDemo_Rainfall_231020.mlx)  
 [Statistical Learning Jupyter Notebook (2023)](/Demos/StatisticalLearningDemo_Rainfall_231020.ipynb)   
 [NASA ML for Remote Sensing Training](https://appliedsciences.nasa.gov/get-involved/training/english/arset-fundamentals-machine-learning-earth-science)  
