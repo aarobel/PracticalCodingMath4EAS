@@ -1,0 +1,50 @@
+\documentclass{article}
+\usepackage[T1]{fontenc}
+\usepackage{amsmath,amssymb,epsfig,wrapfig,xfrac}
+\usepackage{natbib}
+\usepackage{lineno,chapterbib}
+%\usepackage[pdftex]{graphicx}
+\graphicspath{{./}}
+\oddsidemargin=0.1in
+\bibliographystyle{apalike}
+\usepackage[pdftex,bookmarks,colorlinks=true,plainpages=false, 
+citecolor=black,urlcolor=blue,filecolor=blue]{hyperref} % usage: \href{URL}{text}
+\newcommand*\samethanks[1][\value{footnote}]{\footnotemark[#1]}
+\newcommand{\mytilde}{\raise.17ex\hbox{$\scriptstyle\mathtt{\sim}$}}
+\newcommand{\pd}[2]{\frac{\partial {#1}}{\partial {#2}}}
+\newcommand{\od}[2]{\frac{\mathrm{d} {#1}}{\mathrm{d} {#2}}}
+\newcommand{\pdl}[2]{{\partial {#1}}/{\partial {#2}}}
+\newcommand{\beq}{\begin{equation*}}
+\newcommand{\eeq}{\end{equation*}}
+\newcommand{\be}{\begin{enumerate}} 
+\newcommand{\ee}{\end{enumerate}}
+
+\setlength{\topmargin}{-0.5in}
+
+\setlength{\textwidth}{6.5in}
+\setlength{\textheight}{9.1in}
+\title{\vspace{-1in} PS: Ordinary Differential Equations}
+\date{}
+\begin{document}
+
+\maketitle
+\be 
+\item Consider the advection-diffusion equation in one dimension and with no variations in flow speed in space
+\begin{equation}
+\frac{\partial C}{\partial t} = -u \frac{\partial C}{\partial x} + D \frac{\partial^2 C}{\partial x^2}
+\end{equation}
+where $C$ is a dimensionless concentration of some tracer chemical.
+\be
+\item Use a numerical PDE solver to solve this problem with $u = 4$ m/s and $D = 50$ m$^2$/s in the above equation and an initial condition $C(t=0) = e^{-(x/100)^2}$ over the domain $x = [-1000, 1000]$ meters, and a time interval time interval $t = [0, 200]$ seconds. Plot the numerical solution $C(x,t)$ over this time interval as a contour plot.
+
+\item Now change the diffusivity to $D = 100$ m$^2$/s and $u = 2$ m/s. Plot the solution at time $t=200$ s for this diffusivity, and on the same figure plot the $t=200$ s for the parameters from part (a). Notice how higher diffusivity and lower flow velocity cause the final distribution of concentration to be more spread out, and closer to the initial location.
+
+
+\ee
+
+
+
+\ee
+\end{document}
+\end{enumerate}
+\end{document}

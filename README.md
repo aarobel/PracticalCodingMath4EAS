@@ -75,7 +75,7 @@ Resource:
 [PDE Notes](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main24/Notes/PDE%20Review.pdf)  
 [PDE MATLAB script](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main24/Demos/PDE_MATLAB_deas.m)  
 [PDE Jupyter Notebook](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main24/Demos/PDE_notebook.ipynb)  
-[Problem Set](XX)  
+[Problem Set](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main24/PS/PDE_PS.pdf)
 
 ### 11/1: Machine Learning (A. Sarhadi)
 [Machine Learning Materials To Come](XX)
