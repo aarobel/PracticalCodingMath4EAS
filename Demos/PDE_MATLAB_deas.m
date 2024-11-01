@@ -13,7 +13,7 @@
 %% Mesh
 L = 1;
 x = linspace(0,L,100);
-t = linspace(0,0.5,1000);
+t = linspace(0,1,1000);
 
 %% Solve Equation
 m = 0;
@@ -40,12 +40,12 @@ end
 
 function [c,f,s] = heatpde(x,t,u,dudx)
     c = 1;
-    f = dudx;
-    s = -5*dudx;
+    f = 0.1*dudx;
+    s = 0;
 end
 
 function u0 = heatic(x)
-    u0 = 0.5*exp(-10*(x-0.5)^2);
+    u0 = 1*exp(-10*(x-0.5)^2);
 end
 
 function [pl,ql,pr,qr] = heatbc(xl,ul,xr,ur,t)
