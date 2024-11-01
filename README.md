@@ -78,12 +78,12 @@ Resource:
 [Problem Set](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main24/PS/PDE_PS.pdf)
 
 ### 11/1: Machine Learning (A. Sarhadi)
-[ML Slides](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main24/Notes/ML-EAS.pptx) 
-[ML Demos (CNN)](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main24/Demos/CNN_Example.ipynb) 
-[ML Demos (ANN)](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main24/Demos/Basic_DL_Example.ipynb) 
-[ML Demos (MNIST)](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main24/Demos/MNIST.ipynb) 
-[ML Demos (Sat Data)](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main24/Demos/Satellite_Data/) 
-[ML Demos (ANN Data)](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main24/Demos/maastricht.csv) 
+[ML Slides](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main24/Notes/ML-EAS.pptx)   
+[ML Demos (CNN)](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main24/Demos/CNN_Example.ipynb)  
+[ML Demos (ANN)](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main24/Demos/Basic_DL_Example.ipynb)  
+[ML Demos (MNIST)](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main24/Demos/MNIST.ipynb)  
+[ML Demos (Sat Data)](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main24/Demos/Satellite_Data/)  
+[ML Demos (ANN Data)](https://github.com/aarobel/PracticalCodingMath4EAS/blob/main24/Demos/maastricht.csv)  
 
 Resources:  
 [Statistical/Machine Learning Notes (2023)](/Notes/StatisticalLearningNotes_231020.pdf)  
